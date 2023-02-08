@@ -1,0 +1,19 @@
+{
+  "name": "preprocesadores-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CinLo82/Preprocesadores-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CinLo82/Preprocesadores-css/issues"
+  },
+  "homepage": "https://github.com/CinLo82/Preprocesadores-css#index.html"
+}
